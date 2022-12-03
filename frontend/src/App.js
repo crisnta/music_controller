@@ -6,7 +6,7 @@ import Home from './containers/Home'
 
 const App = () => {
   return (
-    <div>
+    <div className='center'>
       <Home />
     </div>
   )
